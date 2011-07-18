@@ -8,13 +8,7 @@ var calipso = require("lib/calipso"),
 
 exports = module.exports = {
   init: init,
-  route: route,
-  about: {
-    description: 'Enables socket.io, adding the default socket.io scripts to each page request.  This moduile is intended to be used by other modules, and exposes no functionality on its own.',
-    author: 'cliftonc',
-    version: '0.1.1',
-    home: 'http://github.com/cliftonc/calipso'
-  }
+  route: route
 };
 
 /**
