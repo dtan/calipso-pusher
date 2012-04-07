@@ -9,6 +9,6 @@
   },
   "author": "Clifton Cunningham <clifton.cunningham@gmail.com> (cliftoncunningham.co.uk)",
   "dependencies": {
-     "socket.io": "0.7.x"
+     "socket.io": "0.9.x"
   }
 }
