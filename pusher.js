@@ -64,8 +64,8 @@ function init(module, app, next) {
 
     });
 
-
     next();
+
   });
 
 };
